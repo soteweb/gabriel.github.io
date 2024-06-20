@@ -1,0 +1,64 @@
+/* Estilo para el encabezado */
+header {
+    background-color: #f0f0f0; /* Color de fondo */
+    padding: 20px; /* Espaciado interior */
+    text-align: center; /* Alineación del texto */
+}
+
+/* Estilo para el título del encabezado */
+header h1 {
+    color: #333; /* Color del texto */
+    font-family: Arial, sans-serif; /* Tipo de fuente */
+}
+
+/* Estilo para la barra de navegación */
+nav ul {
+    list-style-type: none; /* Quita los puntos de la lista */
+    padding: 0; /* Elimina el espaciado interior */
+}
+
+nav ul li {
+    display: inline; /* Mostrar en línea */
+    margin-right: 20px; /* Espacio entre elementos */
+}
+
+nav ul li a {
+    text-decoration: none; /* Quitar subrayado de enlaces */
+    color: #333; /* Color del texto */
+    font-family: Arial, sans-serif; /* Tipo de fuente */
+}
+
+/* Estilo para la sección principal */
+section {
+    padding: 20px; /* Espaciado interior */
+}
+
+/* Estilo para el subtítulo */
+section h2 {
+    color: #666; /* Color del texto */
+    font-family: Arial, sans-serif; /* Tipo de fuente */
+}
+
+/* Estilo para el párrafo */
+section p {
+    color: #999; /* Color del texto */
+    font-family: Arial, sans-serif; /* Tipo de fuente */
+    text-align: justify; /* Alineación del texto */
+    line-height: 1.5; /* Espaciado entre líneas */
+}
+
+/* Estilo para la imagen */
+section img {
+    display: block; /* Mostrar como bloque */
+    margin: 0 auto; /* Centrar la imagen */
+    max-width: 100%; /* Ancho máximo */
+    height: auto; /* Altura automática */
+}
+
+/* Estilo para el pie de página */
+footer {
+    background-color: #333; /* Color de fondo */
+    color: #fff; /* Color del texto */
+    padding: 10px 0; /* Espaciado interior */
+    text-align: center; /* Alineación del texto */
+}
